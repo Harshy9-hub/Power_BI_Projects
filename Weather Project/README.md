@@ -1,15 +1,15 @@
-🌤️ Live Weather & AQI Forecasting Dashboard – Power BI
+# 🌤️ Live Weather & AQI Forecasting Dashboard – Power BI
 
 A fully dynamic Power BI dashboard that integrates live weather API data and custom AQI visualizations to provide real-time environmental insights, forecasting, and trend analysis.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This Power BI project connects directly to a Weather API to fetch live meteorological data including temperature, humidity, wind, pressure, and Air Quality Index (AQI). The dashboard updates automatically based on API refresh schedules, allowing users to monitor real-time conditions and analyze historical + forecasted weather trends.
 
 The combination of live API integration, DAX-based forecasting, and custom AQI visuals makes this dashboard a professional-grade model for environmental analytics.
 
-🎯 Key Features
-🔗 1️⃣ Live Weather API Integration
+## 🎯 Key Features
+### 🔗 1️⃣ Live Weather API Integration
 
 Automated connection to external weather API
 
@@ -31,7 +31,7 @@ Weather condition text
 
 AQI and pollutant components
 
-🌫️ 2️⃣ Custom AQI Visualization
+### 🌫️ 2️⃣ Custom AQI Visualization
 
 Custom-designed AQI visual (color-coded scale)
 
@@ -51,7 +51,7 @@ Very Poor
 
 Severe
 
-📊 3️⃣ Historical & Forecasted Analytics
+### 📊 3️⃣ Historical & Forecasted Analytics
 
 Time-series charts for temperature, humidity, and AQI
 
@@ -65,7 +65,7 @@ DAX-based time intelligence
 
 Seasonal & hourly pattern detection
 
-🗺 4️⃣ Geographic Weather Mapping
+### 🗺 4️⃣ Geographic Weather Mapping
 
 City-level mapping
 
@@ -73,7 +73,7 @@ Tooltip-based detail card showing live metrics
 
 Conditional color formatting based on AQI or temperature
 
-🧮 5️⃣ KPI Cards
+### 🧮 5️⃣ KPI Cards
 
 Live Temperature
 
